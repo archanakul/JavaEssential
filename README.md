@@ -1,3 +1,0 @@
-# JavaEssential
-Basics of java
-
