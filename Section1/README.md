@@ -50,7 +50,7 @@
   4. PARAMETERS:
     		- Used as arguments to methods
     		- Used to pass values to methods & retrieve values from the methods
-    		- 
+
 #### VARIABLE NAMING CONVENSIONS - Names are INDETIFIERS to identify the location in memory:
   1. Case Sensitive
   2. Can not be same as RESERVED/KEY words
